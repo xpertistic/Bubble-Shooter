@@ -1,8 +1,3 @@
-Here is the updated `README.md` tailored specifically for your **XShooter** bubble shooter game without the Vercel-specific hosting details.
-
----
-
-```markdown
 # 🎯 XShooter
 
 A fast-paced, arcade-style bubble shooter game built for the web. Aim, match, and pop bubbles to clear the board and score maximum points.
